@@ -162,4 +162,13 @@ footer{
     border-radius: 16px;
     background-color: aliceblue;
     margin-top: 80px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }
+.icon{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
